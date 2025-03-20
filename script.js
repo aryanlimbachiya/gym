@@ -15,7 +15,7 @@ window.onscroll = () => {
 
 const typed = new Typed('.multiple-text', {
     strings: ['Physical Fitness', 'Weight Gain', 'Strength Training', 'Fat Lose', 'Weight Lifting', 'Running'],
-    typeSpeed: 60,
+    typeSpeed: 10,
     backSpeed: 60,
     backDelay: 1000,
     loop: true,
